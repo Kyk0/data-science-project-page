@@ -31,7 +31,7 @@ export default function ModelTrainingSection() {
                 <div className="absolute bottom-0 right-0 w-[320px] h-[320px] bg-indigo-200/50 rounded-full blur-[100px] mix-blend-multiply" />
             </div>
 
-            <div className="relative max-w-5xl mx-auto px-4 space-y-12 animate-[fadeInUp_0.7s_ease-out]">
+            <div className="relative max-w-6xl mx-auto px-4 space-y-12 animate-[fadeInUp_0.7s_ease-out]">
                 <div className="space-y-4 max-w-3xl">
                     <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white border border-slate-200 text-xs font-medium text-emerald-700 shadow-sm">
                         <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />

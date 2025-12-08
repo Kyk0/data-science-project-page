@@ -36,7 +36,7 @@ export default function IntroSection() {
                 <div className="absolute top-20 left-10 w-96 h-96 bg-violet-600 rounded-full blur-[128px] mix-blend-screen opacity-20" />
             </div>
 
-            <div className="relative max-w-5xl mx-auto px-4 space-y-12 animate-[fadeInUp_0.7s_ease-out]">
+            <div className="relative max-w-6xl mx-auto px-4 space-y-12 animate-[fadeInUp_0.7s_ease-out]">
                 <div className="space-y-4 max-w-3xl">
                     <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 border border-white/10 backdrop-blur-sm text-xs font-medium text-indigo-200 shadow-sm">
                         <span className="w-1.5 h-1.5 rounded-full bg-indigo-400 animate-pulse" />

@@ -13,7 +13,7 @@ export default function ConclusionSection() {
         >
             <div className="absolute inset-x-0 -top-32 h-64 bg-gradient-to-r from-emerald-500/10 via-cyan-500/10 to-indigo-500/10 blur-3xl opacity-60 pointer-events-none" />
 
-            <div className="relative max-w-4xl mx-auto px-4 space-y-6">
+            <div className="relative max-w-6xl mx-auto px-4 space-y-6">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 border border-white/10 backdrop-blur-sm text-xs font-medium text-emerald-200 shadow-sm">
                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
                     Conclusion

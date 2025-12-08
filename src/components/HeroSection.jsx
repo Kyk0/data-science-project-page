@@ -7,7 +7,7 @@ export default function HeroSection() {
                 <div className="absolute bottom-[-10%] left-[-10%] w-[600px] h-[600px] bg-slate-200/40 rounded-full blur-3xl mix-blend-multiply" />
             </div>
 
-            <div className="w-full max-w-5xl mx-auto px-4 relative">
+            <div className="w-full max-w-6xl mx-auto px-4 relative">
                 <div className="space-y-10 animate-[fadeInUp_0.7s_ease-out]">
                     <div className="inline-flex items-center gap-3 rounded-full border border-slate-300/80 bg-white/80 px-4 py-1 text-xs text-slate-600 shadow-sm backdrop-blur">
                         <span className="font-medium text-indigo-600">
