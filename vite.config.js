@@ -4,5 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [tailwindcss(), react()],
+    base: '/data-science-project-page/',
+    plugins: [tailwindcss(), react()],
 })
